@@ -1,3 +1,9 @@
 encryptionsalt: v1:SDbYiswgHtY=:v1:yNA18rQ6A7w5duNL:+LCnEDtuUGibAyGXqTvrs/Lj7N9Yug==
 config:
+  aws-tomislav:dkim:
+    secure: v1:UokxrQym4weB6uzG:OZlgo/Mb3an65qsrMS3/uebzffR5WEVtdOBnWfMUnF3Yk4qXWFXWWEOcB20Gr5BvnzzcHazzZmP5pndt4/qPnd7/PdKyzSGYK3eVZrmEZnrR0EPd0//+sZoSK5Pn2pW5Yilq2F96tDI6w6qexu18KX0CAQub8m3IDwQozfsHXsM8YIsvG4Ke5hiOck4/4VRdQ5xRcXggwJsTkXpjWBbIWdvAR8M3MfgOHf0Ym3QnMAW3NBJ4wOMjkl+JtB1ivfePHwpSBAXIr+nS1gU5tFYI0YLgE4FuG914Ujap3EnZD6LfLHCP9pthqp0ne7MgExL2uFbcTYsuWKzYUQ==
+  aws-tomislav:domainName:
+    secure: v1:yiN+v42/zcs7Pthg:VWCB4TiZ3WV4nqhuyV15niD9jkU7HJcjTl6i
+  aws-tomislav:keybaseVerification:
+    secure: v1:bryUoL7kyrTq60Fi:CqPenOoOHsWnTdB4PxrCBLd48y9acRWgbg3SoXB/2fPRGe+30MGTB/HlHFJSfYp3sC1n1oUqiFD0bA0=
   aws:region: us-east-1
